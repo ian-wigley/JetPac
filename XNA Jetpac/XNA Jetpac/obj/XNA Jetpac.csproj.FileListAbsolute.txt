@@ -1,0 +1,9 @@
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\XNA Jetpac.exe
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\XNA Jetpac.pdb
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\obj\x86\Debug\XNA_Jetpac.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\obj\x86\Debug\XNA Jetpac.exe
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\obj\x86\Debug\XNA Jetpac.pdb
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\screen.xnb
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\sprites.xnb

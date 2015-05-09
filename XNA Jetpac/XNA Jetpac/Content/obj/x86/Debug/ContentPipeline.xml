@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>sprites.PNG</Source>
+      <Name>sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\sprites.xnb</Output>
+      <Time>2009-02-03T11:04:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>rocket_sprites.png</Source>
+      <Name>rocket_sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\rocket_sprites.xnb</Output>
+      <Time>2009-01-22T21:37:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.PNG</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2009-01-01T00:15:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>meteor.png</Source>
+      <Name>meteor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\meteor.xnb</Output>
+      <Time>2009-03-02T12:29:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>floor.PNG</Source>
+      <Name>floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\floor.xnb</Output>
+      <Time>2008-12-01T12:11:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ledge1.PNG</Source>
+      <Name>ledge1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\ledge1.xnb</Output>
+      <Time>2008-12-01T12:09:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ledge2.PNG</Source>
+      <Name>ledge2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\ledge2.xnb</Output>
+      <Time>2008-12-01T12:10:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2009-01-10T22:25:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>particle.PNG</Source>
+      <Name>particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\particle.xnb</Output>
+      <Time>2009-01-23T12:33:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>star.PNG</Source>
+      <Name>star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\star.xnb</Output>
+      <Time>2009-01-12T21:19:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fuel_cell.PNG</Source>
+      <Name>fuel_cell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\fuel_cell.xnb</Output>
+      <Time>2009-01-29T07:01:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus.png</Source>
+      <Name>bonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\bonus.xnb</Output>
+      <Time>2009-03-08T21:49:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>loading.PNG</Source>
+      <Name>loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\loading.xnb</Output>
+      <Time>2005-04-28T21:36:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud.spritefont</Source>
+      <Name>Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\Hud.xnb</Output>
+      <Time>2008-10-02T16:27:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>died.wav</Source>
+      <Name>died</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\died.xnb</Output>
+      <Time>2001-03-01T00:47:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.wav</Source>
+      <Name>fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2000-10-04T21:44:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hit.wav</Source>
+      <Name>hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\hit.xnb</Output>
+      <Time>2000-10-04T14:00:16+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-11T21:20:15.90625+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

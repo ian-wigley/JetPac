@@ -1,0 +1,4 @@
+C:\Documents and Settings\Ian\Desktop\XNA Jetpac\XNA Jetpac\XNA Jetpac\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ian\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lappy\Desktop\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lappytop\Desktop\_MyCreations\XNA (ver 3) Jetpac\XNA Jetpac\XNA Jetpac\Content\obj\x86\Release\ResolveAssemblyReference.cache

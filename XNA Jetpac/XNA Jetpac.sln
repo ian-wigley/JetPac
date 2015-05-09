@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA Jetpac", "XNA Jetpac\XNA Jetpac.csproj", "{67EFF357-B39C-4ECB-81B2-5F0E2C073A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA JetpacContent", "XNA Jetpac\Content\XNA JetpacContent.contentproj", "{D4697E28-B8E3-4F73-83B1-94D6E61BC373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67EFF357-B39C-4ECB-81B2-5F0E2C073A07}.Debug|x86.ActiveCfg = Debug|x86
+		{67EFF357-B39C-4ECB-81B2-5F0E2C073A07}.Debug|x86.Build.0 = Debug|x86
+		{67EFF357-B39C-4ECB-81B2-5F0E2C073A07}.Release|x86.ActiveCfg = Release|x86
+		{67EFF357-B39C-4ECB-81B2-5F0E2C073A07}.Release|x86.Build.0 = Release|x86
+		{D4697E28-B8E3-4F73-83B1-94D6E61BC373}.Debug|x86.ActiveCfg = Debug|x86
+		{D4697E28-B8E3-4F73-83B1-94D6E61BC373}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
